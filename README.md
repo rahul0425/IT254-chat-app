@@ -1,1 +1,1 @@
-# IT254-chat-app
+# Interlinguistic Chat Application
